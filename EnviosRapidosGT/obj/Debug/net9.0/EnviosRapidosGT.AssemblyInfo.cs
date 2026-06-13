@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnviosRapidosGT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25713c8e91cbd5c9e8410131dcb7ded8d4d1eb63")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnviosRapidosGT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnviosRapidosGT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
